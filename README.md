@@ -22,12 +22,16 @@ recognition by Tableau and dividing the whole data into 3 ranges. This report is
 Total PMJDY accounts opened in the date range   01.09.20174 to 23.02.2024: 51,84,09,299
 Data of all 28 states and 9 Union Territories (‘Dadra & Nagar Haveli’ and ‘Daman & Diu’ are mentioned separately in the dataset) are given in the datasheet.
 
-Breaking down the states/UTs in 3 ranges: Total count of states and UTs where the total no. of PMJDY A/C opened
-- Above 50M  -- 3
-- Between 10M-50M -- 12
-- Below 10M -- 22
-
-#### 
+Let’s break down the states and UTs based on the total number of PMJDY accounts opened:
+- Above 50 million accounts (Above 50M): 3 
+- Between 10 million and 50 million accounts (Between 10M-50M): 12
+- Below 10 million accounts (Below 10M): 22
+  
+#### Below 10 million accounts (Below 10M): 22
 ![image](https://github.com/user-attachments/assets/03f99586-0222-43af-8d5f-ada29acad295)
+
+#### Above 50 million accounts (Above 50M): 3
+![image](https://github.com/user-attachments/assets/7e2caebc-87aa-4213-9847-5e43b7bc74ac)
+
 
 
