@@ -16,22 +16,24 @@ PMJDY is a National Mission on Financial Inclusion encompassing an integrated ap
 The data visualized in this Tableau report was sourced from the Open Government Data (OGD) Platform India. It falls under the Government Open Data License - India, which allows for sharing and redistribution. No intentional modifications were made to the original data, except for changing the data type of features for proper
 recognition by Tableau and dividing the whole data into 3 ranges. This report is for educational purposes and data visualization practice. If any unintentional mistake is found in this learning venture, the same may please be brought to the attention of the author.
 
-## The Dashboard;
+## 📊 The Dashboard;
 ![image](https://github.com/user-attachments/assets/45a1acfa-5ead-4c9b-b634-ad0674101651)
 
 Total PMJDY accounts opened in the date range   01.09.20174 to 23.02.2024: 51,84,09,299
 Data of all 28 states and 9 Union Territories (‘Dadra & Nagar Haveli’ and ‘Daman & Diu’ are mentioned separately in the dataset) are given in the datasheet.
 
-Let’s break down the states and UTs based on the total number of PMJDY accounts opened:
+📈 Let’s break down the states and UTs based on the total number of PMJDY accounts opened:
 - Above 50 million accounts (Above 50M): 3 
 - Between 10 million and 50 million accounts (Between 10M-50M): 12
-- Below 10 million accounts (Below 10M): 22
+- Below 10 million accounts (Below 10M): 22 
   
-#### Below 10 million accounts (Below 10M): 22
+#### 📌 Above 50 million accounts (Above 50M): 3
+![image](https://github.com/user-attachments/assets/19ebf6ab-3d3a-4627-8665-3472134c1c14)
+
+#### 📌 Between 10 million and 50 million accounts (Between 10M-50M): 12
+![image](https://github.com/user-attachments/assets/ae1fce62-507c-46d5-b345-0438816f45ae)
+
+#### 📌 Below 10 million accounts (Below 10M): 22
 ![image](https://github.com/user-attachments/assets/03f99586-0222-43af-8d5f-ada29acad295)
-
-#### Above 50 million accounts (Above 50M): 3
-![image](https://github.com/user-attachments/assets/7e2caebc-87aa-4213-9847-5e43b7bc74ac)
-
 
 
